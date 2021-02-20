@@ -1,9 +1,10 @@
 #### git 的使用
 
-git bash
+- git init
+- git add 文件名/ .
+- git commit -m '提交信息('必须有实际意义')'
 
-查看 git 的版本信息
+- git log commitID
+- git log -2
 
-git --version
-
-clear
+- git reset --hard commitID
