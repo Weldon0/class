@@ -2,9 +2,8 @@
 
 git bash
 
-
-
-查看git的版本信息
+查看 git 的版本信息
 
 git --version
 
+clear
